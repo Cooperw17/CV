@@ -238,6 +238,7 @@ hr{
     display: flex;
     justify-content: center;
     border-top: 0px;
+    padding-bottom: 65px;
 
 }
 .side-image {
@@ -270,6 +271,13 @@ hr{
 
 .awards dd, .experience dd {
     margin-left: 0; 
+}
+
+.jobLink a{
+    color: rgb(176, 150, 117);
+}
+.jobLink a:hover{
+    color:#5E6C5B;
 }
 
 
